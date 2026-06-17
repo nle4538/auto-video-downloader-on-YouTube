@@ -494,12 +494,4 @@ MIT License
 4. Проверьте квоту YouTube API в Google Cloud Console
 
 ---
-
-<div align="center">
-
-**Удачной загрузки! 🎥✨**
-
-[⬆ Вернуться к началу](#-youtube-auto-uploader)
-
-</div>
 ```
